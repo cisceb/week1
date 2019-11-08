@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>Question 1</head>
 <body>
 <h3>Question 1</h3>
@@ -33,4 +32,4 @@
 </tr>
 </table>
 </body>
-</html>
+
